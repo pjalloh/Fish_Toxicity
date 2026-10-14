@@ -1,0 +1,7 @@
+# Large datasets
+adore_dataset/processed/t-F2F_mortality.csv
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
